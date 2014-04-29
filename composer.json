@@ -5,8 +5,12 @@
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*",
-        "echonest/echonest": "dev-master"
-	},
+        "echonest/echonest": "dev-master",
+        "dandelionmood/lastfm": "dev-master",
+        "twitter/bootstrap": "*",
+        "toddish/verify": "2.0.*",
+        "phpunit/phpunit": "3.7.*"
+    },
 	"autoload": {
 		"classmap": [
 			"app/commands",
